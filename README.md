@@ -1,6 +1,6 @@
 
 # Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization
-This is the official codebase for paper [Prompting the Hidden Talent of Web-Scale Speech Models
+This is forked from the official codebase for paper [Prompting the Hidden Talent of Web-Scale Speech Models
 for Zero-Shot Task Generalization](https://arxiv.org/abs/2305.11095).
 
 ```
@@ -11,6 +11,8 @@ for Zero-Shot Task Generalization](https://arxiv.org/abs/2305.11095).
   year={2023}
 }
 ```
+# Resources for later
+[How to Prompt Whisper](https://cookbook.openai.com/examples/whisper_prompting_guide)
 
 # Table of Contents
 1. [Environment](#1-environment)
