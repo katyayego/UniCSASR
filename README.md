@@ -13,6 +13,9 @@ for Zero-Shot Task Generalization](https://arxiv.org/abs/2305.11095).
 ```
 # Resources for later
 [How to Prompt Whisper](https://cookbook.openai.com/examples/whisper_prompting_guide)
+[Understanding Whisper Prompts Paper] (https://arxiv.org/pdf/2406.05806)
+[Whisper Prompts Medium Article] (https://medium.com/axinc-ai/prompt-engineering-in-whisper-6bb18003562d)
+[Another prompting paper] (https://arxiv.org/html/2312.08079v2)
 
 # Table of Contents
 1. [Environment](#1-environment)
